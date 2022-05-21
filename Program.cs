@@ -10,6 +10,9 @@ namespace ExercicioTabuada
     {
         static void Main(string[] args)
         {
+            //Nome: Paulo Fernando Lara Pereira de Araujo
+            //R.A: 6322501
+
             /*Console.WriteLine("Tabuada");
 
             int numero, cont = 0;
